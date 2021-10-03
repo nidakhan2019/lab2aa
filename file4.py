@@ -2,7 +2,11 @@ multiply (x,y):
     return x * y
 print (multiply (5,6))
 
-#python addition
+def squareRoot(x):
+	return x ** 0.5
+
+x = squareRoot(10)
+print(x)
 def add(x,y):
 	return (x+y)
 m=add(6,9)
