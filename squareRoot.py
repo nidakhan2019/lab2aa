@@ -1,0 +1,9 @@
+multiply (x,y):
+    return x * y
+print (multiply (5,6))
+
+def squareRoot(x):
+	return x ** 0.5
+
+x = squareRoot(10)
+print(x)
